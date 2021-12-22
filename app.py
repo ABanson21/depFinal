@@ -2,7 +2,7 @@
  "cells": [
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": None,
    "id": "980d9d6c",
    "metadata": {
     "scrolled": false
@@ -58,7 +58,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": None,
    "id": "586e9b97",
    "metadata": {},
    "outputs": [],
@@ -66,7 +66,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": None,
    "id": "d40a445d",
    "metadata": {},
    "outputs": [],
@@ -74,7 +74,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": None,
    "id": "10d011d3",
    "metadata": {},
    "outputs": [],
@@ -82,7 +82,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": None,
    "id": "3413f019",
    "metadata": {},
    "outputs": [],
@@ -90,7 +90,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": None,
    "id": "3e21a85c",
    "metadata": {},
    "outputs": [],
